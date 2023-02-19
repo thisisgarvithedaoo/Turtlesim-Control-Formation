@@ -1,5 +1,5 @@
 ## Turtlesim :turtle:
-To understand some basic functionalities of [rospy](http://wiki.ros.org/rospy) library which is used throughout this project and velocity control of a robot, Turtlesim node is used.
+To understand some basic functionalities of [rospy](http://wiki.ros.org/rospy) library and velocity control of a robot, Turtlesim node is used.
 
 Tracing some common shapes - 
 Applying P controller to control the turtles - 
